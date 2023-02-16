@@ -4,7 +4,7 @@ Meaghan Lidd 1225621
 
 ![Screen Capture #2](figures/2.png)
 
-![Screen Capture #3](figures/3.png)
+![Screen Capture #3](figures/3.1.png)
 
 ![Screen Capture #4](figures/4.png)
 
@@ -16,4 +16,4 @@ Meaghan Lidd 1225621
 
 ![Screen Capture #8](figures/8.png)
 
-![Screen Capture #9](figures/9.png)
+![Screen Capture #9](figures/9.1.png)
